@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 Rukayya Khan
+<p align="left">✨ Creating bugs since ...<br>📚 I'm a passionate MERN stack developer who loves building modern and responsive web applications.  
+Currently focusing on strengthening my frontend skills with React and Tailwind CSS.
+
+I enjoy turning ideas into real-world projects and constantly improving my development skills.
 
 🚀 MERN Stack Developer  
 🎯 Focused on improving Frontend Development  
@@ -18,7 +21,58 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h1 align="left">I code with</h1>
+<h2 align="left">## 🛠️ Tech Stack
+
+### 💻 Frontend
+- React.js
+- JavaScript (ES6+)
+- Tailwind CSS
+- HTML5
+- CSS3
+- Axios
+
+### 🛠 Backend
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JWT Authentication
+
+### ⚙️ Tools
+- Git & GitHub
+- VS Code
+- Postman
+- MongoDB Compass
+
+---
+
+## 🚀 Projects
+
+🔹 Full Stack Authentication System (MERN)  
+🔹 Task Manager App  
+🔹 Responsive Dashboard UI  
+🔹 REST API with Express & MongoDB  
+
+(More coming soon...)
+
+---
+
+## 📈 Currently Working On
+
+- Improving UI/UX skills  
+- Building responsive layouts  
+- Understanding advanced React concepts  
+- Creating real-world full stack projects  
+
+---
+
+## 🎯 2026 Goals
+
+- Build 5+ complete MERN projects  
+- Master frontend architecture  
+- Contribute to open source  
+- Strengthen problem-solving skills </h2>
 
 ###
 

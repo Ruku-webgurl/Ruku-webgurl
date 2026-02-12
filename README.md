@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rukayya and I'm a MERN Stack Developer, from my home😆</p>
+<h2 align="left">My name is Rukayya and I'm a MERN Stack Developer, from my home😆</h2>
 
 ###
 

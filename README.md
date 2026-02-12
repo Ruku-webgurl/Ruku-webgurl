@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 Hi 👋, I'm Rukayya Khan
+<p align="left">✨ Creating bugs since ...<br>📚 Rukayya Khan
 
 🚀 MERN Stack Developer  
 🎯 Focused on improving Frontend Development  
